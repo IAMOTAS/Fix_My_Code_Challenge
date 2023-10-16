@@ -1,0 +1,19 @@
+{:uriI"�file:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/javascripts/cable.js?type=application/javascript&pipeline=self&id=233a351daca3ec4bcbfa73ed5bc1977fb72c61d033c3bbfaf6a2ca525634092c:ET:load_pathI"app/assets/javascripts;T:
+filenameI"$app/assets/javascripts/cable.js;T:	nameI"
+cable;T:logical_pathI"cable.self.js;T:content_typeI"application/javascript;T:sourceI"#// Action Cable provides the framework to deal with WebSockets in Rails.
+// You can generate new channels where WebSocket features live using the rails generate channel command.
+//
+
+
+
+
+(function() {
+  this.App || (this.App = {});
+
+  App.cable = ActionCable.createConsumer();
+
+}).call(this);
+;T:
+metadata{:dependencieso:Set:
+@hash}I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"Zprocessors:type=application/javascript&file_type=application/javascript&pipeline=self;TTI"]file-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/javascripts/cable.js;TTI"Ofile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/config;TTI"\file-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/config/action_cable;TTI"Ofile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/images;TTI"\file-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/images/action_cable;TTI"Tfile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/javascripts;TTI"afile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/javascripts/action_cable;TTI"Tfile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/stylesheets;TTI"afile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/stylesheets/action_cable;TTI"Wfile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/vendor/assets/javascripts;TTI"dfile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/vendor/assets/javascripts/action_cable;TTI"Wfile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/vendor/assets/stylesheets;TTI"dfile-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/vendor/assets/stylesheets/action_cable;TTI"gfile-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.2.2/vendor/assets/javascripts;TTI"tfile-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.2.2/vendor/assets/javascripts/action_cable;TTI"dfile-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.1/lib/assets/javascripts;TTI"qfile-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.1/lib/assets/javascripts/action_cable;TTI"`file-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/actioncable-5.0.1/lib/assets/compiled;TTI"mfile-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/actioncable-5.0.1/lib/assets/compiled/action_cable;TTI"pfile-digest:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/actioncable-5.0.1/lib/assets/compiled/action_cable.js;TTI"]file-digest:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/javascripts/channels;TTF:
+requiredo;;}I"�file:///home/vagrant/.rvm/gems/ruby-2.3.1/gems/actioncable-5.0.1/lib/assets/compiled/action_cable.js?type=application/javascript&pipeline=self;TTI"{file:///vagrant/Fix%20my%20code%20%231-fixed/blog/app/assets/javascripts/cable.js?type=application/javascript&pipeline=self;TTF:stubbedo;;}
